@@ -22,21 +22,21 @@ function Certificates() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="certificate-card">
             <CertificateCard
-              imgPath={hackthon5}
-              title="Hack The Mountains 5.0"
-              issuer="Sudans Technocrats Foundation"
-              date="9th October 2024"
-              credentialLink="https://verification.givemycertificate.com/v/03be4cbf-702d-48dc-a994-019ddda233d0"
-            />
-          </Col>
-
-          <Col md={4} className="certificate-card">
-            <CertificateCard
               imgPath={hackthon6}
               title="HackNUThon 6.0"
               issuer="Computer Society Of India"
               date="31th March 2025"
               credentialLink="https://certificate.givemycertificate.com/c/04f924ae-9f4e-4667-bafd-22e6ad6ccdca"
+            />
+          </Col>
+                
+          <Col md={4} className="certificate-card">
+            <CertificateCard
+              imgPath={hackthon5}
+              title="Hack The Mountains 5.0"
+              issuer="Sudans Technocrats Foundation"
+              date="9th October 2024"
+              credentialLink="https://verification.givemycertificate.com/v/03be4cbf-702d-48dc-a994-019ddda233d0"
             />
           </Col>
 
