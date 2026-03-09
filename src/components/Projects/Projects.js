@@ -51,7 +51,7 @@ function Projects() {
               title="Foodies"
               description="A dynamic food delivery web app built with HTML, CSS, and JavaScript, offering an intuitive ordering experience with pages for Home, About, Dish, Cart, Login, Register, and Order. Deployed on Vercel for scalability, it ensures fast performance with development managed via Git and GitHub."
               ghLink="https://github.com/ThummarDensi/Foodies"
-              demoLink="https://foodies-wine.vercel.app/"              
+              demoLink="https://fooddies.vercel.app/"              
             />
           </Col>
 
